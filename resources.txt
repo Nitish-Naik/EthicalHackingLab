@@ -1,0 +1,3 @@
+https://armur.ai/ethical-hacking/vuln/vuln-1/custom-script-development-for-vulnerability-assessment/
+https://github.com/MohamedAliChabani/Hack-The-Box-Academy-Notes/tree/master
+https://github.com/jakejarvis/awesome-shodan-queries
